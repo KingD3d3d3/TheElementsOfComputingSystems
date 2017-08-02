@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mAssemblerSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- An empty Set should have size 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- Invoking head on an empty Set should produce NoSuchElementException[0m[0m
+[0m[[0minfo[0m] [0m[32m- Dest mnemonic binary coding[0m[0m
+[0m[[0minfo[0m] [0m[32m- Comp mnemonic binary coding[0m[0m
+[0m[[0minfo[0m] [0m[32m- Jump mnemonic binary coding[0m[0m
+[0m[[0minfo[0m] [0m[32m- Remove spaces characters and comment of a command[0m[0m
+[0m[[0minfo[0m] [0m[32m- Command type[0m[0m
+[0m[[0minfo[0m] [0m[32m- Get symbol of an A_COMMAND or L_COMMAND[0m[0m
+[0m[[0minfo[0m] [0m[32m- Get dest mnemonic of a C_COMMAND[0m[0m
+[0m[[0minfo[0m] [0m[32m- Get comp mnemonic of a C_COMMAND[0m[0m
+[0m[[0minfo[0m] [0m[32m- Get jump mnemonic of a C_COMMAND[0m[0m
